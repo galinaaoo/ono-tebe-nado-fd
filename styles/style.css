@@ -286,9 +286,6 @@ background: url(../images/cover.jpg) center / cover no-repeat;
     gap: 8px;
     text-align: center;
 }
-.footer-menu-list-item-active {
-    list-style: none;
-}
 .footer-menu .footer-menu-list-item-link {
     font-size: 18px;
     color: #000;
